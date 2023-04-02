@@ -1,4 +1,4 @@
-package com.example.teplate_app
+package com.example.hangman
 
 import io.flutter.embedding.android.FlutterActivity
 

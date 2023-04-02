@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.teplate_app">
+    package="com.example.hangman">
    <application
-        android:label="teplate_app"
+        android:label="hangman"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

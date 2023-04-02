@@ -1,6 +1,6 @@
 {
-    "name": "teplate_app",
-    "short_name": "teplate_app",
+    "name": "hangman",
+    "short_name": "hangman",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
